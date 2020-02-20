@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React These are my changes from Scott
+          Learn React These are Pats changes!!!!!
         </a>
       </header>
     </div>
